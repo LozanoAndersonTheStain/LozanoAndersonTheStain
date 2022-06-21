@@ -1,4 +1,4 @@
-<img src="https://solutionsoft.com.ar/sitiobase/img/servidor2.gif" alt="">
+<img src="https://solutionsoft.com.ar/sitiobase/img/servidor2.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Anderson Lozano Velásquez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
