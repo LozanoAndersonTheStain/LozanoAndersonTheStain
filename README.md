@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/5eKX.gif" width="70%">
+<img src="https://247webdigital.com/wp-content/themes/liveit/assets/dev.gif" width="70%">
 
 <h1 align="center">Hi 👋, I'm Anderson Lozano Velásquez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonlozanothestain&show_icons=true&locale=en" alt="andersonlozanothestain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonlozanothestain&" alt="andersonlozanothestain" /></p>
+
 
