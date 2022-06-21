@@ -1,4 +1,4 @@
-<img src="https://247webdigital.com/wp-content/themes/liveit/assets/dev.gif" width="70%" justify-content: center;>
+<img src="https://247webdigital.com/wp-content/themes/liveit/assets/dev.gif" width="70%"; justify-content: center;>
 
 <h1 align="center">Hi 👋, I'm Anderson Lozano Velásquez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
