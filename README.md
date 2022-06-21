@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Html y CSS**
 
-- 🌱 I’m currently learning **Html, CSS, Reac y MySQL**
+- 🌱 I’m currently learning **Html, CSS, React y MySQL**
 
 - 📫 How to reach me **adslozanov@gmail.com**
 
