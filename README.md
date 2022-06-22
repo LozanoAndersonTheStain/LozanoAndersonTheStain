@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lozanoandersonthestain&label=Profile%20views&color=0e75b6&style=flat" alt="lozanoandersonthestain" /> </p>
 
-- 🌱 I’m currently learning **Html-CSS-React y MySQL**
+- 🌱 I’m currently learning **Html - CSS - NoteJs y MySQL**
 
 - 📫 How to reach me **adslozanov@gmail.com**
 
