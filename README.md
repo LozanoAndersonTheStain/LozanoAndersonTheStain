@@ -1,7 +1,6 @@
-<img src="https://247webdigital.com/wp-content/themes/liveit/assets/dev.gif" width="75%">
-
 <h1 align="center">Hi 👋, I'm Anderson Lozano Velasquez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
+<img src="https://247webdigital.com/wp-content/themes/liveit/assets/dev.gif" width="75%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lozanoandersonthestain&label=Profile%20views&color=0e75b6&style=flat" alt="lozanoandersonthestain" /> </p>
 
