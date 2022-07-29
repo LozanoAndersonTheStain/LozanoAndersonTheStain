@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and backend developer from Colombia</h3>
 <img src="https://247webdigital.com/wp-content/themes/liveit/assets/dev.gif" width="80%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lozanoandersonthestain&label=Profile%20views&color=0e75b6&style=flat" alt="lozanoandersonthestain" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lozanoandersonthestain&label=Profile%20views&color=0e75b6&style=flat" alt="lozanoandersonthestain" /> </p>
 
 - 🌱 I’m currently learning **Html - CSS - NoteJs y MySQL**
 
