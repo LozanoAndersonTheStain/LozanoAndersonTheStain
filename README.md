@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="800" height="400" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp"  />
+<!--   <img width="800" height="400" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp"  /> -->
+  <img width="800" height="400" src="https://gifdb.com/images/high/python-developer-cracking-code-nrmqz4gfzvcv01l2.webp"  />
 </div>
 
 ###
