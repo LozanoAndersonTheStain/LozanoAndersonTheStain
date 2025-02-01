@@ -38,7 +38,7 @@
   <a href="https://discord.com/channels/Tookkeen" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:adslozanov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/anderson-lozano-velasquez-4a8952218/" target="_blank">
